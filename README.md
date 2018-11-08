@@ -1,6 +1,6 @@
 # Nix Compose
 
-Nix compose is modeled afer [docker-compose](https://docs.docker.com/compose/overview/);it can be used set up an isolated enviornment that is not _exactly_ like a production environment, but close enough to faciliate easy development.
+Nix compose is modeled afer [docker-compose](https://docs.docker.com/compose/overview/); it can be used set up an isolated enviornment that is not _exactly_ like a production environment, but close enough to faciliate easy development.
 
 It's goal is to have the same smooth experience offered by `docker-compose`, by deploying NixOS configurations to ephemeral KVM-machines.
 
